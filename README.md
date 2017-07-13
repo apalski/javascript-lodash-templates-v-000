@@ -2,20 +2,20 @@
 
 ## Q.1. Why Programming? What have you done to expose yourself to programming so far?
 
-My previous career in manufacturing had become stale and I was no longer feeling as motivated as I should. It was time for a change  
+My previous career in manufacturing had become stale and I was no longer feeling as motivated as I should. It was time for a change
 but I wanted to be passionate about my next career and I wanted it to engage and intrigue me and make me look forward to each day. 
 
-I remembered dabbling in programming years ago and really enjoying it, so I started to do some research into what programming   
-would mean today. Web Development ticked all my boxes - it was relevant, fun, absorbing, constantly evolving and future-proof.   
-I am currently 75% through a Full-Stack Web Development Bootcamp, online, through Flatiron School in New York. The course is self-paced   
-and would adapt easily to part-time study to allow me to take on full-time work. I have just completed the Ruby on Rails(RoRs) section   
-of the course and really love programming with Ruby and Rails, it just flows. The next part of the course is JavaScript, React and Redux   and I am 33% through the JavaScript section. My GitHub repositories are [here](https://github.com/apalski?tab=repositories).
+I remembered dabbling in programming years ago and really enjoying it, so I started to do some research into what programming 
+would mean today. Web Development ticked all my boxes - it was relevant, fun, absorbing, constantly evolving and future-proof. 
+I am currently 75% through a Full-Stack Web Development Bootcamp, online, through Flatiron School in New York. The course is self-paced 
+and would adapt easily to part-time study to allow me to take on full-time work. I have just completed the Ruby on Rails(RoRs) section 
+of the course and really love programming with Ruby and Rails, it just flows. The next part of the course is JavaScript, React and Redux and I am 33% through the JavaScript section. My GitHub repositories are [here](https://github.com/apalski?tab=repositories).
 
 ## Q.2. If you are accepted into our programme, what would you like to get out of it? What would success look like for you?
 
-As much learning as possible, while I have become quite good with RoR I know I have so much more to learn. I want to be exposed to as   
-many different ways of thinking as possible so that I can become the most succinct, clear and logical programmer I can. A big part of   
-the attraction of programming is that there is always something to learn and great people to learn it with. I want to be surrounded by a   happy, diverse, giving and talented group of people who will inspire and charge me and allow me to do the same for them as I gain   experience.
+As much learning as possible, while I have become quite good with RoR I know I have so much more to learn. I want to be exposed to as 
+many different ways of thinking as possible so that I can become the most succinct, clear and logical programmer I can. A big part of 
+the attraction of programming is that there is always something to learn and great people to learn it with. I want to be surrounded by a happy, diverse, giving and talented group of people who will inspire and charge me and allow me to do the same for them as I gain   experience.
 
 Success to me means happiness, fulfillment and giving back. On the whole I feel I am already fairly successful as I have found my why in   programming and am happy and content in my personal life. I believe you can always grow existing success through interactions with   
 others, in working with a happy and successful team and in helping and mentoring others.
